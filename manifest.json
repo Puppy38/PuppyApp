@@ -1,7 +1,7 @@
 {
-  "name": "Escape Eni",
-  "short_name": "Escape Eni",
-  "description": "Get Seven Coins Without Touching The Yellow Character!",
+  "name": "PuppyApp",
+  "short_name": "Puppy",
+  "description": "My App",
   "start_url": "index.html",
   "display": "standalone",
   "background_color": "#ffffff",
@@ -9,7 +9,7 @@
   "icons": [
     {
       "src": "icon.png",
-      "sizes": "557x557",
+      "sizes": "512x512",
       "type": "image/png"
     }
   ]
